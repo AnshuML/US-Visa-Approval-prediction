@@ -3,7 +3,7 @@ from datetime import date
 
 DATABASE_NAME = "US_VISA"
 
-COLLECTION_NAME = "visa_data"
+COLLECTION_NAME = "VISA_DATA"
 
 MONGODB_URL_KEY = "MONGODB_URL"
 
